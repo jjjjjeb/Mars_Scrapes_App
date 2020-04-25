@@ -1,6 +1,6 @@
 # Web Scraping Challenge
 
-Web application scrapes multiple sites for data on the Mission to Mars, then imports the data into MongoDB, and displays it on a single bootstrap web page with Flask.
+Web application scrapes multiple sites for data on the Mission to Mars, then imports the data into MongoDB, and displays it on a single bootstrap web page with Flask. Employs beautifulsoup, splinter, requests, & pandas.
 
 ![Fig](./imgs/app_screenshot.png)
 
