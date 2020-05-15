@@ -1,0 +1,5 @@
+chromedriver.exe
+.ipynb_checkpoints
+__pycache__
+debug.log
+papp.py
