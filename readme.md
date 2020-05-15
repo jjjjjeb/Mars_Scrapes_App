@@ -4,7 +4,8 @@ Demo web application utilizes python to scrape multiple sites for data on the Mi
 
 View the application code [here](/app.py), and the scrape code [here](/scrape_m_hemis.py) & [here](/scrape_mars).
 
-Screenshot:
+Screenshot
+
 ![Fig](./imgs/app_screenshot.png)
 
 
